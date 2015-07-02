@@ -1,3 +1,1 @@
-# hank
-Android source
-i hope i can make a lot of money,i real need money!
+这是第一次用github，希望能早点熟练使用！
